@@ -59,8 +59,8 @@ BMKMapManager* _mapManager;
 //    LoginViewController *loginViewController = loginSB.instantiateInitialViewController;
     
     //测试注册
-//    UIStoryboard *registerSB =[UIStoryboard storyboardWithName:@"Register" bundle:nil];
-//    RegisterViewController *registerViewController = registerSB.instantiateInitialViewController;
+    UIStoryboard *registerSB =[UIStoryboard storyboardWithName:@"Register" bundle:nil];
+    RegisterViewController *registerViewController = registerSB.instantiateInitialViewController;
     
     //测试消息推送
 //    UIStoryboard *mainSB =[UIStoryboard storyboardWithName:@"Main" bundle:nil];
@@ -75,10 +75,10 @@ BMKMapManager* _mapManager;
 //    UINavigationController *navigationController = [[UINavigationController alloc] initWithRootViewController:navViewController];
     
     //测试地图
-    RootViewController *rootViewController = [[RootViewController alloc] init];
-    UINavigationController *navigationController = [[UINavigationController alloc] initWithRootViewController:rootViewController];
+//    RootViewController *rootViewController = [[RootViewController alloc] init];
+//    UINavigationController *navigationController = [[UINavigationController alloc] initWithRootViewController:rootViewController];
 
-    self.window.rootViewController = navigationController;
+    self.window.rootViewController = registerViewController;
     
     return YES;
 }

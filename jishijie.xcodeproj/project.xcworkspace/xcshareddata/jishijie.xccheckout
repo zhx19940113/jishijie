@@ -10,14 +10,14 @@
 	<string>jishijie</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>91348DB396BE13EFE894E7130FC4D2A801164890</key>
+		<key>A6DA2B9970A9E8BFF2468DC530ED304C4F1974FD</key>
 		<string>https://github.com/zhx19940113/jishijie.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>jishijie.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>91348DB396BE13EFE894E7130FC4D2A801164890</key>
+		<key>A6DA2B9970A9E8BFF2468DC530ED304C4F1974FD</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>91348DB396BE13EFE894E7130FC4D2A801164890</string>
+	<string>A6DA2B9970A9E8BFF2468DC530ED304C4F1974FD</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>91348DB396BE13EFE894E7130FC4D2A801164890</string>
+			<string>A6DA2B9970A9E8BFF2468DC530ED304C4F1974FD</string>
 			<key>IDESourceControlWCCName</key>
 			<string>jishijie</string>
 		</dict>

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A501F8271B7C844200F49E75 /* NSString+PJR.m in Sources */ = {isa = PBXBuildFile; fileRef = A501F8261B7C844200F49E75 /* NSString+PJR.m */; };
 		A505952D1B7C356100EDBCCC /* AnnotationDemoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A50594CC1B7C356100EDBCCC /* AnnotationDemoViewController.m */; };
 		A505952E1B7C356100EDBCCC /* AnnotationDemoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A50594CD1B7C356100EDBCCC /* AnnotationDemoViewController.xib */; };
 		A50595301B7C356100EDBCCC /* BusLineSearchViewController.mm in Sources */ = {isa = PBXBuildFile; fileRef = A50594D11B7C356100EDBCCC /* BusLineSearchViewController.mm */; };
@@ -390,6 +391,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A501F8251B7C844200F49E75 /* NSString+PJR.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+PJR.h"; sourceTree = "<group>"; };
+		A501F8261B7C844200F49E75 /* NSString+PJR.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+PJR.m"; sourceTree = "<group>"; };
 		A50594CB1B7C356100EDBCCC /* AnnotationDemoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AnnotationDemoViewController.h; sourceTree = "<group>"; };
 		A50594CC1B7C356100EDBCCC /* AnnotationDemoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AnnotationDemoViewController.m; sourceTree = "<group>"; };
 		A50594CD1B7C356100EDBCCC /* AnnotationDemoViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AnnotationDemoViewController.xib; sourceTree = "<group>"; };
@@ -2751,6 +2754,8 @@
 		A5A282591B7876A600A7D753 /* Utils */ = {
 			isa = PBXGroup;
 			children = (
+				A501F8251B7C844200F49E75 /* NSString+PJR.h */,
+				A501F8261B7C844200F49E75 /* NSString+PJR.m */,
 				A55C05EA1B7AD8B80089B53B /* XMPPTool.h */,
 				A55C05EB1B7AD8B80089B53B /* XMPPTool.m */,
 				A5A2825A1B7876A600A7D753 /* CommonUtil.h */,
@@ -3102,6 +3107,7 @@
 				A55C07CD1B7AD8D70089B53B /* XMPPMessage+XEP_0224.m in Sources */,
 				A551C4A41B7998E700D059B5 /* IQTitleBarButtonItem.m in Sources */,
 				A55C076D1B7AD8D70089B53B /* XMPPMessage.m in Sources */,
+				A501F8271B7C844200F49E75 /* NSString+PJR.m in Sources */,
 				A55C08481B7AE27B0089B53B /* MainViewController.m in Sources */,
 				A55C07B71B7AD8D70089B53B /* XMPPCapabilities.m in Sources */,
 				A55C07951B7AD8D70089B53B /* XMPPMessage+XEP0045.m in Sources */,
